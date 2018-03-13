@@ -6,3 +6,10 @@ C:\Users\Alaska Marie Keyleth\source\repos\LogicPuzzle\LogicPuzzle\obj\Debug\Log
 C:\Users\Alaska Marie Keyleth\source\repos\LogicPuzzle\LogicPuzzle\obj\Debug\LogicPuzzle.pdb
 C:\Users\Alaska Marie Keyleth\source\repos\LogicPuzzle\LogicPuzzle\bin\Debug\LogicPuzzle.exe.CodeAnalysisLog.xml
 C:\Users\Alaska Marie Keyleth\source\repos\LogicPuzzle\LogicPuzzle\bin\Debug\LogicPuzzle.exe.lastcodeanalysissucceeded
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\bin\Debug\LogicPuzzle.exe.config
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\bin\Debug\LogicPuzzle.exe
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\bin\Debug\LogicPuzzle.pdb
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\obj\Debug\LogicPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\obj\Debug\LogicPuzzle.exe
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\obj\Debug\LogicPuzzle.pdb
+C:\Users\AlaskaJay\Desktop\BasicLogicPuzzle-master\LogicPuzzle\obj\Debug\LogicPuzzle.csprojResolveAssemblyReference.cache
