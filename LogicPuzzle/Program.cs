@@ -10,27 +10,27 @@ namespace LogicPuzzle
     {
         static void Main(string[] args)
         {
-            bool[] switches = new bool[4];
+            Model switches = new Model();
             char input = '0';
 
             Console.WriteLine("Hello, press any key besides n to play.");
-            while(input != 'n' && !solved(switches)) {
+            while(input != 'n' && !switches.solved()) {
                 input = Console.ReadKey().KeyChar;
                 Console.WriteLine();
-                flip(input, switches);
-                for(int i = 0; i < switches.Length; i++)
+                switches.flip(input);
+                for(int i = 0; i < switches.getSwitches().Length; i++)
                 {
-                    Console.Write(switches[i] + "\t");
+                    Console.Write(switches.getSwitches()[i] + "\t");
                 }
                 Console.WriteLine();
             }
-            if(solved(switches))
+            if(switches.solved())
                 Console.WriteLine("You won! Press any key to exit!");
             else
                 Console.WriteLine("You left! Press any key to exit!");
             input = Console.ReadKey().KeyChar;
         }
-
+        /*
         static void flip(char input, bool[] switches)
         {
             if (input == '0')
@@ -62,5 +62,6 @@ namespace LogicPuzzle
                     return false;
             return true;
         }
+        */
     }
 }
